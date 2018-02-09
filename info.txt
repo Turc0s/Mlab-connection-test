@@ -1,0 +1,1 @@
+Need to use ng buld to build the project before using node server to launch the app

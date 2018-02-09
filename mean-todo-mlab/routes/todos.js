@@ -87,8 +87,4 @@ router.delete("/todos/:id", (req, res, next) => {
     });
 });
 
-// mongodb://turc0ss:mlab123@ds229438.mlab.com:29438/mean-todos-ang5
-
 module.exports = router;
-
-
